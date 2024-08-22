@@ -1,5 +1,8 @@
-def hello
-  puts "Hello   World"
+# Hello 
+
+def sum(num1, num2)
+  add = num1 + num2
+  puts add
 end
 
-hello
+sum(10, 5)
